@@ -19,17 +19,16 @@ To develop the Railway Reservation System using Star UML tool.
    The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
 
 # DIAGRAMS:
-Usecase:
 <img width="788" height="871" alt="UseCaseDiagram rail" src="https://github.com/user-attachments/assets/c47eff49-e5d7-4db3-8937-b2369e943b1a" />
-Class diagram:
+
 <img width="1061" height="741" alt="class diagram rail" src="https://github.com/user-attachments/assets/f9dd11fb-6992-43af-baf7-ecdfc2cbb1bc" />
-SEQUENCE:
+
 <img width="926" height="802" alt="SequenceDiagram1 rail" src="https://github.com/user-attachments/assets/4dc927b3-5c31-404b-9232-4a458313a3c5" />
-Package:
+
 <img width="1191" height="801" alt="PackageDiagram1 rail" src="https://github.com/user-attachments/assets/198f878e-e8f8-4c2c-97d7-bfac5fc8876a" />
-Activity:
+
 <img width="671" height="1113" alt="ActivityDiagram1 rail" src="https://github.com/user-attachments/assets/b59b3328-0f50-4bdf-9333-4f8c1780477c" />
-Communication:
+
 <img width="787" height="511" alt="CommunicationDiagram1 rail" src="https://github.com/user-attachments/assets/8f58f859-966c-477d-9b0d-7cae0a08cd4f" />
 
 
