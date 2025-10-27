@@ -1,36 +1,59 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
+# Developed by:GAYATHRI M
+# Reg no: 212223220024
 
-# AIM:
+# AIM: 
 To develop the Railway Reservation System using Star UML tool.
 
 # SRS (Procedure):
-1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
- 
-2. An E-Ticket offers many advantages for both travelers and airline including security, flexibility and cost convenience. At the same time, it also provides the standard assurance of the traditional paper ticket,
- scaling choice, travel time options and other flexibilities.
+UML Diagrams for Railway Reservation System are:
 
-3. Passengers typically print out copies of their E-Ticket including confirmation E-mail and other document.
-  All those documents can be replaced by pulling them out of the computer again and only a person with proper identification can actually use an E-Ticket.
+1.Usecase Diagram
 
-4. E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail,
-  text messages sent to their home or business computers or to their cell phones.
+2.Activity Diagram 
 
-6.  Finally, using E-Ticket is a more environmental friendly approach.
-   The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
+3.Class Diagram 
+
+4.Communication Diagram 
+
+5.Package Diagram
+
+6.Sequence Diagram
+
+The actors in this are Employee , Admin , Passenger , Locomotive .
 
 # DIAGRAMS:
-<img width="788" height="871" alt="UseCaseDiagram rail" src="https://github.com/user-attachments/assets/c47eff49-e5d7-4db3-8937-b2369e943b1a" />
 
-<img width="1061" height="741" alt="class diagram rail" src="https://github.com/user-attachments/assets/f9dd11fb-6992-43af-baf7-ecdfc2cbb1bc" />
+USECASE DIAGRAM
 
-<img width="926" height="802" alt="SequenceDiagram1 rail" src="https://github.com/user-attachments/assets/4dc927b3-5c31-404b-9232-4a458313a3c5" />
+<img width="788" height="871" alt="UseCaseDiagram rail" src="https://github.com/user-attachments/assets/5e62ba50-d840-49df-953c-d1cba844c6ec" />
 
-<img width="1191" height="801" alt="PackageDiagram1 rail" src="https://github.com/user-attachments/assets/198f878e-e8f8-4c2c-97d7-bfac5fc8876a" />
 
-<img width="671" height="1113" alt="ActivityDiagram1 rail" src="https://github.com/user-attachments/assets/b59b3328-0f50-4bdf-9333-4f8c1780477c" />
+ACTIVITY DIAGRAM
 
-<img width="787" height="511" alt="CommunicationDiagram1 rail" src="https://github.com/user-attachments/assets/8f58f859-966c-477d-9b0d-7cae0a08cd4f" />
+<img width="671" height="1113" alt="ActivityDiagram1 rail" src="https://github.com/user-attachments/assets/f3839d53-c093-4e68-854d-729abfc49179" />
 
+
+
+CLASS DIAGRAM
+
+<img width="1061" height="741" alt="class diagram rail" src="https://github.com/user-attachments/assets/f14576a0-0fce-4fcf-b355-bd5fd9aa2a49" />
+
+
+
+COMMUNICATION DIAGRAM
+
+<img width="787" height="511" alt="CommunicationDiagram1 rail" src="https://github.com/user-attachments/assets/c1b83999-a130-4a91-b0ff-76dfa244b9e5" />
+
+
+PACAKGE DIAGRAM
+
+<img width="1191" height="801" alt="PackageDiagram1 rail" src="https://github.com/user-attachments/assets/2d425362-fc8d-4f5b-bb03-4d252b8cf55c" />
+
+
+SEQUENCE DIAGRAM
+
+<img width="926" height="802" alt="SequenceDiagram1 rail" src="https://github.com/user-attachments/assets/38a3488f-0f91-409f-aa47-22c1dc85f6d9" />
 
 
 # RESULT:
